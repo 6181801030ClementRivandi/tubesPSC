@@ -16,7 +16,7 @@ import java.util.List;
 
 /**
  * template code diambil dari : https://www.cs.princeton.edu/courses/archive/fall07/cos402/assignments/rushhour/
- * code untuk A* diambil dari github : https://github.com/saschazar21/rushhour/tree/master/AStar
+ * code untuk A* diambil dari github  : https://github.com/saschazar21/rushhour/tree/master/AStar
  */
 public class AStar {
 
